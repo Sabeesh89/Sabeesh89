@@ -3,18 +3,75 @@
 <h1 align="center">Hi 👋, I'm Sabeesh H</h1>
 <h3 align="center">I BREATHE EAT SLEEP - AWS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabeesh89&label=Profile%20views&color=0e75b6&style=flat" alt="sabeesh89" /> </p>
+Certainly! Below is a basic template for a GitHub README file tailored for a DevOps engineer with expertise in AWS, Python, EKS (Elastic Kubernetes Service), Jenkins, Grafana, Prometheus, and more. You can customize it further based on your specific projects, achievements, and preferences.
 
-- 💬 Ask me about **AWS **
+markdown
 
-- 📫 How to reach me **sabeesh.harinarayanan@gmail.com**
+# DevOps Engineer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sabeesh-h-4379432b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabeesh-h-4379432b" height="30" width="40" /></a>
-</p>
+## Overview
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+Welcome to my GitHub profile! I am a passionate DevOps engineer with expertise in building and managing scalable, secure, and efficient infrastructure. My skill set includes AWS, Python, EKS, Jenkins, Grafana, Prometheus, and more.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabeesh89&show_icons=true&locale=en&layout=compact" alt="sabeesh89" /></p>
+## Skills
+
+- **Cloud Platforms:**
+  - Amazon Web Services (AWS)
+
+- **Container Orchestration:**
+  - Elastic Kubernetes Service (EKS)
+
+- **Automation:**
+  - Jenkins
+  - Python
+
+- **Monitoring and Logging:**
+  - Grafana
+  - Prometheus
+
+- **Infrastructure as Code (IaC):**
+  - Terraform
+  - CloudFormation
+
+- **Configuration Management:**
+  - Ansible
+
+- **Version Control:**
+  - Git
+
+- **Continuous Integration / Continuous Deployment (CI/CD):**
+  - Jenkins Pipelines
+  - GitHub Actions
+
+## Projects
+
+### Project 1: EKS Cluster Automation
+
+- Implemented an automated EKS cluster creation and management solution using Terraform.
+- Integrated the cluster with AWS services for optimal performance and scalability.
+
+### Project 2: CI/CD Pipeline with Jenkins
+
+- Set up Jenkins pipelines for automating build, test, and deployment processes.
+- Integrated GitHub repositories with Jenkins for seamless CI/CD workflows.
+
+### Project 3: Monitoring and Logging
+
+- Deployed Prometheus and Grafana for real-time monitoring of infrastructure and applications.
+- Implemented centralized logging using tools like ELK (Elasticsearch, Logstash, Kibana).
+
+## Blog Posts
+
+Check out some of my blog posts related to DevOps practices and tools:
+
+1. [Title of Blog Post 1](link-to-blog-post1)
+2. [Title of Blog Post 2](link-to-blog-post2)
+
+## Connect With Me
+
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- Twitter: [Your Twitter Handle](link-to-twitter)
+
+Feel free to explore my repositories and projects. If you have any questions or suggestions, don't hesitate to reach out!
+
+Happy coding!
