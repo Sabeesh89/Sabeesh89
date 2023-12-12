@@ -1,13 +1,9 @@
-### Hi there 👋
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQGPHPw1EQRu1Q/article-cover_image-shrink_600_2000/0/1645684142018?e=2147483647&v=beta&t=SllF47i-q6d9iufTZS9hMwkbbL5VM7cRdy6oJXUXCtM">
 
 <h1 align="center">Hi 👋, I'm Sabeesh H</h1>
-<h3 align="center">I BREATHE EAT SLEEP - AWS</h3>
+<h3 align="center">**I BREATHE EAT SLEEP - AWS**</h3>
 
-Certainly! Below is a basic template for a GitHub README file tailored for a DevOps engineer with expertise in AWS, Python, EKS (Elastic Kubernetes Service), Jenkins, Grafana, Prometheus, and more. You can customize it further based on your specific projects, achievements, and preferences.
-
-markdown
-
-# DevOps Engineer
+# AWS SOLUTIONS ARCHITECT
 
 ## Overview
 
@@ -16,25 +12,25 @@ Welcome to my GitHub profile! I am a passionate DevOps engineer with expertise i
 ## Skills
 
 - **Cloud Platforms:**
-  - Amazon Web Services (AWS)
+  - Amazon Web Services (AWS) , AZURE
 
 - **Container Orchestration:**
-  - Elastic Kubernetes Service (EKS)
+  - Elastic Kubernetes Service (EKS) 
 
 - **Automation:**
   - Jenkins
+  - Spinnaker
   - Python
+  - BASH
 
 - **Monitoring and Logging:**
   - Grafana
   - Prometheus
+  - cloudwatch
 
 - **Infrastructure as Code (IaC):**
   - Terraform
   - CloudFormation
-
-- **Configuration Management:**
-  - Ansible
 
 - **Version Control:**
   - Git
@@ -42,35 +38,11 @@ Welcome to my GitHub profile! I am a passionate DevOps engineer with expertise i
 - **Continuous Integration / Continuous Deployment (CI/CD):**
   - Jenkins Pipelines
   - GitHub Actions
-
-## Projects
-
-### Project 1: EKS Cluster Automation
-
-- Implemented an automated EKS cluster creation and management solution using Terraform.
-- Integrated the cluster with AWS services for optimal performance and scalability.
-
-### Project 2: CI/CD Pipeline with Jenkins
-
-- Set up Jenkins pipelines for automating build, test, and deployment processes.
-- Integrated GitHub repositories with Jenkins for seamless CI/CD workflows.
-
-### Project 3: Monitoring and Logging
-
-- Deployed Prometheus and Grafana for real-time monitoring of infrastructure and applications.
-- Implemented centralized logging using tools like ELK (Elasticsearch, Logstash, Kibana).
-
-## Blog Posts
-
-Check out some of my blog posts related to DevOps practices and tools:
-
-1. [Title of Blog Post 1](link-to-blog-post1)
-2. [Title of Blog Post 2](link-to-blog-post2)
+  - Spinnaker
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Twitter: [Your Twitter Handle](link-to-twitter)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sabeesh-h-4379432b/)
 
 Feel free to explore my repositories and projects. If you have any questions or suggestions, don't hesitate to reach out!
 
