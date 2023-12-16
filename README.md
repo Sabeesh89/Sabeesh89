@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I am a passionate Cloud Engineer with expertise in
 
 ## Connect With Me
 
-- LinkedIn: (https://www.linkedin.com/in/sabeesh-h-4379432b/)
+- LinkedIn: https://www.linkedin.com/in/sabeesh-h-4379432b/
 
 Feel free to explore my repositories and projects. If you have any questions or suggestions, don't hesitate to reach out!
 
