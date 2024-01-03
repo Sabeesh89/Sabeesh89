@@ -1,6 +1,17 @@
 <img align="right" alt="Coding" width="800" src="https://static.wikia.nocookie.net/superpower-list/images/4/41/AgWt6.gif/revision/latest?cb=20160512072434">
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Overview
 
 Welcome to my GitHub profile! I am a passionate Cloud Engineer with expertise in building and managing scalable, secure, and efficient infrastructure. My skill set includes AWS, Python, EKS, Jenkins, Grafana, Prometheus, and more.
