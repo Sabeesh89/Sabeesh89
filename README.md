@@ -10,12 +10,6 @@
 
 
 
-
-
-## Overview
-
-Welcome to my GitHub profile! I am a passionate Cloud Engineer with expertise in building and managing scalable, secure, and efficient infrastructure. My skill set includes AWS, Python, EKS, Jenkins, Grafana, Prometheus, and more.
-
 ## Skills
 
 - **Cloud Platforms:**
